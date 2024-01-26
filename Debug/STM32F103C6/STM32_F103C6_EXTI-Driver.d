@@ -1,0 +1,20 @@
+STM32F103C6/STM32_F103C6_EXTI-Driver.o: \
+ ../STM32F103C6/STM32_F103C6_EXTI-Driver.c \
+ ../STM32F103C6/../STM32F103C6/includes/Stm32_F103C6_EXTI-Driver.h \
+ ../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103C6_GPIO-Driver.h \
+ ../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103x6.h \
+ ../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103x6.h \
+ ../STM32F103C6/../STM32F103C6/includes/Stm32_F103C6_GPIO-Driver.h \
+ ../STM32F103C6/../STM32F103C6/includes/Stm32_F103x6.h
+
+../STM32F103C6/../STM32F103C6/includes/Stm32_F103C6_EXTI-Driver.h:
+
+../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103C6_GPIO-Driver.h:
+
+../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103x6.h:
+
+../STM32F103C6/../STM32F103C6/includes/../../STM32F103C6/includes/Stm32_F103x6.h:
+
+../STM32F103C6/../STM32F103C6/includes/Stm32_F103C6_GPIO-Driver.h:
+
+../STM32F103C6/../STM32F103C6/includes/Stm32_F103x6.h:
